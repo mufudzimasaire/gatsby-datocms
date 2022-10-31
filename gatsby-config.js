@@ -8,7 +8,7 @@ module.exports = {
   siteMetadata: {
     siteUrl: "https://gatsbydatocmshomepage.gatsbyjs.io/",
     title: "Gatsby DatoCMS Homepage Starter",
-    author: `Gatsby`,
+    author: `MM`,
     description: "A Gatsby Starter for building homepages with DatoCMS",
   },
   plugins: [
